@@ -10,18 +10,19 @@
 5. Type the command "npm install" to install all the dependecies of the project
 6. Type "npm start" to execute the project.
 
-# How-to-use as a user (stakeholder)
+# How-to-use 
+## as a user (stakeholder)
 1. Register. You may specify your preferences by selecting one or more substitution rules. 
 2. Login (you may modify your personal information and selected substitution rules)
 3. Upload a feature model of a product line as XML file
 4. Configure the model by selecting desired and/or undesired features
 5. Save and close
 
-# How-to-use as a product manager
+## as a product manager
 1. Login with admin/admin credentials
 2. Choose "Merge" option behind the feature model XML file name
 3. Select the prioritized stakeholder, and optionnaly "Send the final configuration to all the stakeholders"
 4. Choose "Start resolution"
 
 # System requirements
-Please check the Node.js website for system requirements.
+Please check the Node.js website for more information about system requirements.
