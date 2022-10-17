@@ -5,7 +5,7 @@
 # Installation and set-up
 1. Install Node.js from: https://nodejs.org/en/download/
 2. From the terminal (command prompt), type the following command line: "npm install -g @vue/cli"
-3. Download and unzip the project available by clicking on the following link: https://github.com/sabrinacri/Colla-Config-tool.git 
+3. Download and unzip the project available by clicking on the following link: https://github.com/Sihembs/Colla-Config-tool 
 4. Go to the folder where you unzipped the project by using the "cd" command on the terminal.
 5. Type the command "npm install" to install all the dependecies of the project
 6. Type "npm start" to execute the project.
